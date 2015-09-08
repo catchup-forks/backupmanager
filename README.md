@@ -45,6 +45,10 @@ Add a menu element for it:
 
 Or just try at **your-project-domain/admin/backup**
 
+## Screenshots
+
+See http://usedick.com
+
 ## Change log
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
